@@ -1,5 +1,5 @@
 # 💫 About Me:
-• clean code / practical systems / continuous learning<br>• automation and problem solving
+• Clean code / Practical Systems / Continuous learning<br>• Automation and problem solving
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_soheil_sha_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Soheil-Shabanian) 
